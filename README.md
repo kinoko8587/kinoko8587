@@ -1,6 +1,5 @@
 <h1 align="center">Ann Chen</h1>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h2 align="center">Hi there!</h2>
+<h2 align="center">Hi there! About me</h2>
 
 ```golang
 package main
@@ -35,4 +34,3 @@ func GetBio() Bio {
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kinoko8587&show_icons=true&locale=en" alt="kinoko8587" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kinoko8587&" alt="kinoko8587" /></p>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
